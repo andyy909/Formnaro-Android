@@ -1,8 +1,10 @@
 # Formano Mini for Android
 
-Formano Mini is a tablet CAD app with an offline S Pen sketchbook and a companion mode for Formnaro on Windows. This private repository hosts Android pilot downloads and issue reports.
+Formano Mini is a tablet CAD app with an offline S Pen sketchbook and a companion mode for Formnaro on Windows. The Android app is new and under active development. Pilot 32 is an early test build, and features and workflows may change.
 
 **[Pilot 32 APK and SHA-256 checksum](https://github.com/andyy909/Formnaro-Android/releases/tag/v0.1.0-pilot.32)** · [Formnaro for Windows](https://github.com/andyy909/Formnaro-cad)
+
+**Deutsch:** Formano Mini für Android ist frisch und wird aktiv weiterentwickelt. Pilot 32 ist eine frühe Testversion.
 
 ## Verified compatibility
 
